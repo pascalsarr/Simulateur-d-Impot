@@ -1,0 +1,71 @@
+﻿<Window x:Class="Bulletin_impot.ListEmployes"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Bulletin_impot"
+        mc:Ignorable="d"
+        Title="Liste des Employés" Height="371.234" Width="899.999" Loaded="Window_Loaded">
+    <Grid Loaded="Grid_Loaded" Margin="0,0,-0.6,194.2">
+        <DataGrid AutoGenerateColumns="False" ItemsSource="{Binding }" x:Name="listEmpl_Datagrid" HorizontalAlignment="Left" Margin="158.5,10,0,-135.926" Width="624" SelectionChanged="DataGrid_SelectionChanged">
+            <DataGrid.Columns>
+
+                <DataGridTextColumn  Binding="{Binding Path=Nom}" Header="Nom" Width="100"
+IsReadOnly="True" />
+                <DataGridTextColumn  Binding="{Binding Path=Prenom}" Header="Prénom" Width="130"
+IsReadOnly="True" />
+                <DataGridTextColumn  Binding="{Binding Path=Matricule}" Header="Matricule" Width="100"
+IsReadOnly="True" />
+                <DataGridTextColumn  Binding="{Binding Path=SalaireBrut}" Header="Salaire Brute (f CFA)" Width="120"
+IsReadOnly="True" />
+                <DataGridTextColumn  Binding="{Binding Path=NbreJours}" Header="Jours" Width="50"
+IsReadOnly="True" />
+                <DataGridTextColumn  Binding="{Binding Path=Conjoint}" Header="Conjoints" Width="62"
+IsReadOnly="True" />
+                <DataGridTextColumn  Binding="{Binding Path=NbreEnfant}" Header="Enfants" Width="60"
+IsReadOnly="True" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="lab_test" Content="" HorizontalAlignment="Left" Margin="55,241,0,0" VerticalAlignment="Top" Width="174"/>
+        <Grid x:Name="gri2" HorizontalAlignment="Left" Height="166" Margin="10,219,0,-176" VerticalAlignment="Top" Width="869" OpacityMask="#FF8E8C95" RenderTransformOrigin="0.5,0.5" Background="#FFA69E9E" Visibility="Hidden">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="321*"/>
+                <ColumnDefinition Width="187*"/>
+                <ColumnDefinition Width="361*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Grid.RenderTransform>
+            <Label x:Name="label_bfa" Content="Brut Fiscal Annuel :" HorizontalAlignment="Left" Margin="24,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.118,-0.654" Width="132" FontWeight="Bold"/>
+            <Label Content="Brut Fiscal après abattement :" HorizontalAlignment="Left" Margin="24,41,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+            <Label Content="IRPP avant Réduction :" HorizontalAlignment="Left" Margin="24,72,0,0" VerticalAlignment="Top" FontWeight="Bold"/>
+            <TextBlock x:Name="lab_BrutFiscalAnnuel" HorizontalAlignment="Left" Margin="206,15,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="172" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="lab_reduction" HorizontalAlignment="Left" Margin="167.211,72,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Grid.Column="2"/>
+            <TextBlock x:Name="lab_nbrePart" HorizontalAlignment="Left" Margin="167.211,46,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Grid.Column="2"/>
+            <TextBlock x:Name="lab_abbatement" HorizontalAlignment="Left" Margin="167.211,18,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="128" Grid.Column="2"/>
+            <TextBlock x:Name="lab_IrppAvantReduction" HorizontalAlignment="Left" Margin="206,77,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="172" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="lab_BruteFiscalApresAbat" HorizontalAlignment="Left" Margin="206,46,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="172" Grid.ColumnSpan="2"/>
+            <Label Content="Abattement :" HorizontalAlignment="Left" Margin="17.211,16,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.118,-0.654" Width="130" FontWeight="Bold" Grid.Column="2"/>
+            <Label Content="Nombre de parts :" HorizontalAlignment="Left" Margin="17.211,41,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.118,-0.654" Width="130" FontWeight="Bold" Grid.Column="2"/>
+            <Label Content="Réduction :" HorizontalAlignment="Left" Margin="17.211,67,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.118,-0.654" Width="130" FontWeight="Bold" Grid.Column="2"/>
+            <TextBlock x:Name="lab_Impot" HorizontalAlignment="Left" Margin="206,110,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="172" Height="19" Grid.ColumnSpan="2"/>
+            <TextBlock x:Name="lab_salaireNet" HorizontalAlignment="Left" Margin="140.2,97,0,0" TextWrapping="Wrap" Text="Salaire Net : " VerticalAlignment="Top" Width="380" Height="31" Background="#FFF5EFEF" FontWeight="Bold" FontSize="18" Grid.Column="1" Grid.ColumnSpan="2"/>
+            <Label Content=" IMPOTS" HorizontalAlignment="Left" Margin="24,103,0,0" VerticalAlignment="Top" Background="#FF19B620" Width="77" FontWeight="Bold"/>
+        </Grid>
+        <Label x:Name="lab_nom" Content="" HorizontalAlignment="Left" Margin="626,15,0,0" VerticalAlignment="Top" Height="30" Width="188"/>
+        <Label x:Name="lab_prenom" Content="" HorizontalAlignment="Left" Margin="626,45,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lab_matricule" Content="" HorizontalAlignment="Left" Margin="626,45,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lab_SalaireBrute" Content="" HorizontalAlignment="Left" Margin="626,71,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lab_nbreJours" Content="" HorizontalAlignment="Left" Margin="626,102,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lab_Conjoint" Content="" HorizontalAlignment="Left" Margin="626,128,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="lab_NbreEnfants" Content="" HorizontalAlignment="Left" Margin="626,156,0,0" VerticalAlignment="Top"/>
+
+
+    </Grid>
+
+</Window>

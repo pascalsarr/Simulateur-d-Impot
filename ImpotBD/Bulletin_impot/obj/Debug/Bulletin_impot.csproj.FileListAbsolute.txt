@@ -1,0 +1,117 @@
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe.config
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.pdb
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csprojResolveAssemblyReference.cache
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.g.cs
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\App.g.cs
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.cache
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.lref
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.baml
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.g.resources
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.Properties.Resources.resources
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.GenerateResource.Cache
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CoreCompileInputs.cache
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.exe
+c:\users\ya khabir\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.pdb
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe.config
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.pdb
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.g.cs
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\App.g.cs
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.cache
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.lref
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.baml
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.g.resources
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.Properties.Resources.resources
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.GenerateResource.Cache
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CoreCompileInputs.cache
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.exe
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.pdb
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.g.cs
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\MySql.Data.dll
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\MySql.Data.xml
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.baml
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.g.cs
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.baml
+C:\Users\Pro\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csprojResolveAssemblyReference.cache
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe.config
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.pdb
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\bin\Debug\MySql.Data.xml
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csprojAssemblyReference.cache
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.g.cs
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.g.cs
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.g.cs
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\App.g.cs
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.cache
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.lref
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.baml
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.baml
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.baml
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.g.resources
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.Properties.Resources.resources
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.GenerateResource.cache
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CoreCompileInputs.cache
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CopyComplete
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.exe
+D:\Cours DIC3_Fasha\C#, .NET\2019\Bulletin_impot_Finale\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.pdb
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe.config
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.pdb
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\bin\Debug\MySql.Data.xml
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csprojAssemblyReference.cache
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.g.cs
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.g.cs
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.g.cs
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\App.g.cs
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.cache
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.lref
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.baml
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.baml
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.baml
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.g.resources
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.Properties.Resources.resources
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.GenerateResource.cache
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CopyComplete
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.exe
+C:\Users\ayssa\Desktop\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.pdb
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe.config
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.exe
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\Bulletin_impot.pdb
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\bin\Debug\MySql.Data.xml
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.g.cs
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.g.cs
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.g.cs
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\App.g.cs
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.cache
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.lref
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\bareme.baml
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\ListEmployes.baml
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\MainWindow.baml
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.g.resources
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.exe
+C:\Users\ASUS\source\repos\Bulletin_impot\Bulletin_impot\obj\Debug\Bulletin_impot.pdb
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\bin\Debug\Bulletin_impot.exe.config
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\bin\Debug\Bulletin_impot.exe
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\bin\Debug\Bulletin_impot.pdb
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\bin\Debug\MySql.Data.xml
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.csprojAssemblyReference.cache
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\bareme.g.cs
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\ListEmployes.g.cs
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\MainWindow.g.cs
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\App.g.cs
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.cache
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot_MarkupCompile.lref
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\bareme.baml
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\ListEmployes.baml
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\MainWindow.baml
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.g.resources
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.Properties.Resources.resources
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.GenerateResource.cache
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.csproj.CopyComplete
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.exe
+C:\Users\pascal\Desktop\ImpotBD\Bulletin_impot\obj\Debug\Bulletin_impot.pdb
